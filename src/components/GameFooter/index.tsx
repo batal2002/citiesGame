@@ -18,6 +18,9 @@ const GameFooter: FC<Props> = memo(({setAnswerList, answerList, setTimer, lastCi
 
     const wrongSymbols = 'ъьый'
     let lastSymbol = wrongSymbols.includes(lastCity?.text.slice(-1)) ? lastCity?.text.slice(-2, -1) : lastCity?.text.slice(-1)
+    let placeholder = ((lastSymbol && lastCity.author === 'player2') && `Знаете город на букву “${lastSymbol.toUpperCase()}”?`) ||
+        (disabled && 'Ожидаем ответа соперника...') ||
+        'Напишите любой город, например: Где вы живете?'
 
     const onChange = (e: ChangeEvent<HTMLInputElement>) => {
         const text = e.target.value
@@ -73,7 +76,7 @@ const GameFooter: FC<Props> = memo(({setAnswerList, answerList, setTimer, lastCi
             setDisabled(true)
             setText('')
         } else {
-            setError('Такого города нету')
+            setError('Такого города нет')
         }
     }
 
@@ -82,7 +85,7 @@ const GameFooter: FC<Props> = memo(({setAnswerList, answerList, setTimer, lastCi
             {error && <span className={'text-sm text-purple-700 absolute top-[-4px]'}>{error}</span>}
             <form onSubmit={e => onSubmit(e)} className={'relative'}>
                 <input disabled={disabled} type="text" ref={textInput} value={text} onChange={(e) => onChange(e)}
-                       placeholder={'Напишите любой город, например: Где вы живете?'}
+                       placeholder={placeholder}
                        className={'w-full py-3 pl-3 pr-14 rounded-md bg-gray-100 text-gray-700 placeholder-gray-700 outline-0'}/>
                 <button disabled={disabled}
                         className={'bg-purple-500 p-1.5 rounded-md absolute right-2 top-2 disabled:bg-gray-400'}>
