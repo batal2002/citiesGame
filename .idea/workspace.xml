@@ -1,25 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb93ea53-f450-4253-bb10-24377f1b8eb2" name="Changes" comment="" />
+    <list default="true" id="fb93ea53-f450-4253-bb10-24377f1b8eb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/Routing/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GameContent/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GameContent/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GameFooter/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GameFooter/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GameHeader/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GameHeader/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StartContent/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StartContent/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StartHeader/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StartHeader/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/declare.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/declare.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ErrorPage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ErrorPage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/GamePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/GamePage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ResultPage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ResultPage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/StartPage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/StartPage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/answer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/answer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ProgressBar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ProgressBar/index.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2YB1Hmd04Iu0yWUvRgvJoZoHybu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/batal/OneDrive/Desktop/chayok/src/components/GameHeader&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\batal\\OneDrive\\Desktop\\chayok\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\components\GameHeader" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\assets\fonts" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\components\Content" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\components\Footer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\pages" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\assets\cities" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\assets" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src" />
+      <recent name="C:\Users\batal\OneDrive\Desktop\chayok\src\assets\fonts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,6 +89,9 @@
       <option name="presentableId" value="Default" />
       <updated>1699984073790</updated>
       <workItem from="1699984075696" duration="125000" />
+      <workItem from="1699985188024" duration="1411000" />
+      <workItem from="1700133684503" duration="18653000" />
+      <workItem from="1700220924333" duration="19222000" />
     </task>
     <servers />
   </component>

@@ -1,11 +1,11 @@
 import React, {FC} from 'react';
 
-const Header: FC = () => {
+const StartHeader: FC = () => {
     return (
-        <div className={'p-4'}>
+        <div className={'px-4 py-[17px] border-b-4 text-center'}>
             <p>Игра в города на время</p>
         </div>
     );
 };
 
-export default Header;
+export default StartHeader;
