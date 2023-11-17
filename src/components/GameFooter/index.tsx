@@ -86,7 +86,7 @@ const GameFooter: FC<Props> = memo(({setAnswerList, answerList, setTimer, lastCi
             <form onSubmit={e => onSubmit(e)} className={'relative'}>
                 <input disabled={disabled} type="text" ref={textInput} value={text} onChange={(e) => onChange(e)}
                        placeholder={placeholder}
-                       className={'w-full py-3 pl-3 pr-14 rounded-md bg-gray-100 text-gray-700 placeholder-gray-700 outline-0'}/>
+                       className={'w-full py-3 pl-3 pr-11 rounded-md bg-gray-100 text-gray-700 outline-0 placeholder-gray-700 placeholder:text-xs min-[470px]:placeholder:text-sm sm:placeholder:text-base'}/>
                 <button disabled={disabled}
                         className={'bg-purple-500 p-1.5 rounded-md absolute right-2 top-2 disabled:bg-gray-400'}>
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">

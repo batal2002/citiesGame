@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb93ea53-f450-4253-bb10-24377f1b8eb2" name="Changes" comment="change to HashRouter">
+    <list default="true" id="fb93ea53-f450-4253-bb10-24377f1b8eb2" name="Changes" comment="added dynamic placeholder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/GameFooter/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GameFooter/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StartContent/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StartContent/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <workItem from="1699984075696" duration="125000" />
       <workItem from="1699985188024" duration="1411000" />
       <workItem from="1700133684503" duration="18653000" />
-      <workItem from="1700220924333" duration="20322000" />
+      <workItem from="1700220924333" duration="21649000" />
     </task>
     <task id="LOCAL-00001" summary="change to HashRouter">
       <created>1700240855918</created>
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700240855918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added dynamic placeholder">
+      <created>1700242696854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700242696854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change to HashRouter" />
-    <option name="LAST_COMMIT_MESSAGE" value="change to HashRouter" />
+    <MESSAGE value="added dynamic placeholder" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dynamic placeholder" />
   </component>
 </project>

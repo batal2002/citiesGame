@@ -4,7 +4,7 @@ import {HashRouting} from "./pages/Routing";
 
 function App() {
     return (
-        <div className={'flex justify-center items-center h-screen'}>
+        <div className={'flex justify-center items-center h-screen px-4'}>
             <div className='max-w-xl w-full bg-white rounded-2xl shadow'>
                 {/*<Outlet/>*/}
                 <HashRouting />
