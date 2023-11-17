@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/https://batal2002.github.io/static/css/main.0bbae266.css",
-    "main.js": "/https://batal2002.github.io/static/js/main.48063410.js",
-    "static/media/cities.txt": "/https://batal2002.github.io/static/media/cities.938ff4a0aaa78c5bf642.txt",
-    "index.html": "/https://batal2002.github.io/index.html",
-    "main.0bbae266.css.map": "/https://batal2002.github.io/static/css/main.0bbae266.css.map",
-    "main.48063410.js.map": "/https://batal2002.github.io/static/js/main.48063410.js.map"
+    "main.css": "/citiesGame/static/css/main.0bbae266.css",
+    "main.js": "/citiesGame/static/js/main.260fc100.js",
+    "static/media/cities.txt": "/citiesGame/static/media/cities.938ff4a0aaa78c5bf642.txt",
+    "index.html": "/citiesGame/index.html",
+    "main.0bbae266.css.map": "/citiesGame/static/css/main.0bbae266.css.map",
+    "main.260fc100.js.map": "/citiesGame/static/js/main.260fc100.js.map"
   },
   "entrypoints": [
     "static/css/main.0bbae266.css",
-    "static/js/main.48063410.js"
+    "static/js/main.260fc100.js"
   ]
 }
