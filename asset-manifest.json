@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.0bbae266.css",
-    "main.js": "./static/js/main.a3c0ee3f.js",
-    "static/media/cities.txt": "./static/media/cities.938ff4a0aaa78c5bf642.txt",
-    "index.html": "./index.html",
-    "main.0bbae266.css.map": "./static/css/main.0bbae266.css.map",
-    "main.a3c0ee3f.js.map": "./static/js/main.a3c0ee3f.js.map"
+    "main.css": "/https://batal2002.github.io/static/css/main.0bbae266.css",
+    "main.js": "/https://batal2002.github.io/static/js/main.48063410.js",
+    "static/media/cities.txt": "/https://batal2002.github.io/static/media/cities.938ff4a0aaa78c5bf642.txt",
+    "index.html": "/https://batal2002.github.io/index.html",
+    "main.0bbae266.css.map": "/https://batal2002.github.io/static/css/main.0bbae266.css.map",
+    "main.48063410.js.map": "/https://batal2002.github.io/static/js/main.48063410.js.map"
   },
   "entrypoints": [
     "static/css/main.0bbae266.css",
-    "static/js/main.a3c0ee3f.js"
+    "static/js/main.48063410.js"
   ]
 }
